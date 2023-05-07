@@ -64,3 +64,7 @@ My name is Alexander Gotthardt and I'm currently studying Mobile Software Develo
 | Exercise 4 | [exercise4.md]() |
 | Exercise 5 | [exercise5.md]() |
 | Exercise 6 | [exercise6.md]() |
+
+## External links
+* [My GitHub page](https://github.com/AlexanderGotthardt)
+* [My educational institution (FH JOANNEUM - University of Applied Sciences)](https://www.fh-joanneum.at/en)
