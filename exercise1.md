@@ -6,7 +6,7 @@ Information about orange cats.
 
 This is **Garfield**, my cat.
 
-![Image](resources/images/ex1_1.jpg)
+![Image](ex1_1.jpg)
 
 ## Mildly interesting facts about orange cats
 
